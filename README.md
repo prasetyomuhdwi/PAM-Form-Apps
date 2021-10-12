@@ -1,7 +1,7 @@
 # PAM-Android-Form
 
-## Nama :
-#### Muhammad Dwi Prasetyo
+## Dosen Pengampu PAM : Arif Dwi Laksito, M.Kom
 
-## NIM :
-#### 18.11.2365
+## Nama : Muhammad Dwi Prasetyo
+
+## NIM : 18.11.2365
